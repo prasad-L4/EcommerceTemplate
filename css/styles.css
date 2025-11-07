@@ -21245,7 +21245,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 }
 .footer-logo a img{
   width: 150px!important;
-  height: 50px!important;
+  height: 80px!important;
   object-fit: cover;
 }
 .modal-prdct{
